@@ -43,7 +43,7 @@ defmodule Absinthe.Phoenix.Mixfile do
       {:absinthe_plug, "~> 1.4.0"},
       {:absinthe, "~> 1.4.0"},
       {:decimal, "~> 1.0"},
-      {:phoenix, "~> 1.4-rc.3"},
+      {:phoenix, "~> 1.4.0-rc.3"},
       {:phoenix_pubsub, "~> 1.0"},
       {:phoenix_html, "~> 2.10.5 or ~> 2.11", optional: true},
       {:ex_doc, "~> 0.14", only: :dev},
